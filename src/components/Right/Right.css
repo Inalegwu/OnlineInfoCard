@@ -1,0 +1,18 @@
+.right {
+  padding: 20px;
+  width: 50%;
+  justify-content: flex-end;
+  align-items: flex-end;
+  align-content: flex-end;
+}
+.imageBox {
+  justify-content: center;
+  background: rgba(156, 149, 242, 0.15);
+  /* box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); */
+  backdrop-filter: blur(100px);
+  -webkit-backdrop-filter: blur(7px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  height: 50%;
+  width: 50%;
+}

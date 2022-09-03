@@ -1,0 +1,16 @@
+.left {
+  padding: 20px;
+  width: 50%;
+}
+.titleBox {
+  width: 80%;
+  padding: 20px;
+  height: 400px;
+}
+.heading {
+  font-size: 60px;
+  width: 100%;
+}
+.description {
+  font-size: 20px;
+}
